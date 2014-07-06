@@ -1,4 +1,7 @@
-BarcodeScannerWP8
+I made a copy of the original BarcodeScannerWP8 to try to make it runnable on WP7.
+
+
+BarcodeScannerWP7/8
 =================
 
 Cordova/PhoneGap plugin to enable barcode scanning on Windows Phone 8 using the device's camera.

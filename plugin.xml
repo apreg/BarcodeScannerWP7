@@ -29,7 +29,7 @@
             <Capability Name="ID_CAP_ISV_CAMERA"/>
         </config-file>
 
-        <source-file src="src/wp7/dependencies/zxing.wp8.0.dll"/>
+        <source-file src="src/wp7/dependencies/zxing.wp7.1.dll"/>
         <source-file src="src/wp7/BarcodeResultInfo.cs"/>
         <source-file src="src/wp7/BarcodeScanner.cs"/>
         <source-file src="src/wp7/CameraScan.xaml"/>

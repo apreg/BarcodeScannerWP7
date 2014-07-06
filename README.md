@@ -1,6 +1,7 @@
 I made a copy of the original BarcodeScannerWP8 to try to make it runnable on WP7.
-
-
+=================
+It does not work yet!
+=================
 BarcodeScannerWP7/8
 =================
 
